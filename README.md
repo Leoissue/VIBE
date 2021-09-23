@@ -20,7 +20,7 @@ Check our YouTube videos below for more details.
 [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black),        
 > *IEEE Computer Vision and Pattern Recognition, 2020* 
 
-## Features(addText)
+## Features
 
 _**V**ideo **I**nference for **B**ody Pose and Shape **E**stimation_ (VIBE) is a video pose and shape estimation method.
 It predicts the parameters of SMPL body model for each frame of an input video. Pleaser refer to our [arXiv report](https://arxiv.org/abs/1912.05656) for further details.
@@ -47,7 +47,7 @@ This implementation:
 - 06/10/2020: Support OneEuroFilter smoothing.
 - 14/09/2020: FBX/glTF conversion script is released.
 
-## Started
+## Getting Started
 VIBE has been implemented and tested on Ubuntu 18.04 with python >= 3.7. It supports both GPU and CPU inference.
 If you don't have a suitable device, try running our Colab demo. 
 
